@@ -1,0 +1,8 @@
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\bin\Debug\Atividades.exe.config
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\bin\Debug\Atividades.exe
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\bin\Debug\Atividades.pdb
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\obj\Debug\Atividades.csproj.AssemblyReference.cache
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\obj\Debug\Atividades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\obj\Debug\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\obj\Debug\Atividades.exe
+C:\Users\Marjory\Desktop\FATEC\Senai\C#\Atividades\Atividades\obj\Debug\Atividades.pdb
